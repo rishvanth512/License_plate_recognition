@@ -1,0 +1,7 @@
+
+train: /content/drive/MyDrive/archive/alpr_dataset/train/images
+val: /content/drive/MyDrive/archive/alpr_dataset/val/images
+
+nc: 1
+
+names: ['licensePlate']
